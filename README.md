@@ -1,5 +1,5 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yarlagadda-saimanoj/Stress-Detection-ML/blob/main/LICENSE)
+
 [![stars](https://img.shields.io/github/stars/Yarlagadda-saimanoj/Stress-Detection-ML)](https://github.com/Yarlagadda-saimanoj/Stress-Detection-ML/stargazers)
 
 # Stress-Detection-ML
